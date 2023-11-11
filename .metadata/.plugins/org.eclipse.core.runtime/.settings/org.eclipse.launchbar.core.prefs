@@ -9,3 +9,5 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_EXTI\ Debug/activeLaunchMode
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_LED\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_LED\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_PWM\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_USART\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_USART\ Debug/activeLaunchTarget=null\:---

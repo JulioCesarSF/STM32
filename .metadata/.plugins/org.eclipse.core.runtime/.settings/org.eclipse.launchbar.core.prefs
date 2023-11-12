@@ -15,3 +15,4 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:G0_USART\ Debug/activeLaunchTar
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LM35_Temperature\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LM35_Temperature\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SG90_MicroServo\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SG90_MicroServo\ Debug/activeLaunchTarget=null\:---
